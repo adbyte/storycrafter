@@ -1,6 +1,6 @@
 # 🧚‍♀️ StoryCrafter: Short Story Generator for Kids
 
-**StoryCrafter** is a fun, interactive, and educational **Generative AI Tool** built especially for kids! ✨  
+**StoryCrafter** is a fun, interactive, and educational **Generative AI Tool** built especially for kids! 
 With just a theme and a character, kids can create magical short stories powered by AI — encouraging creativity, reading, and storytelling.
 
 ---
@@ -38,9 +38,9 @@ With just a theme and a character, kids can create magical short stories powered
 
 Here's what the final output screen looks like:
 
-![StoryCrafter Output](output.png)
+![StoryCrafter Output](./output.png)
 
-(ouput.png)
+
 
 ---
 
