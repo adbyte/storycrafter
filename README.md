@@ -40,6 +40,8 @@ Here's what the final output screen looks like:
 
 ![StoryCrafter Output](output.png)
 
+(ouput.png)
+
 ---
 
 ## 💡 Example
